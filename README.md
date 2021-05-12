@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KateDatema
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Django!
-- 💞️ I’m looking to collaborate on front end w
+- 💞️ I’m looking to collaborate on front end
 - 📫 How to reach me ... k8datema@gmail.com
 
 <!---

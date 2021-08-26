@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KateDatema
+- 👋 Hi, I’m @KateDatema a web developer who is always looking to learn more
 - 📫 How to reach me ... k8datema@gmail.com
 
 <!---
